@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\bin\Debug\net6.0\Task54MaxToMinLines.exe
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\bin\Debug\net6.0\Task54MaxToMinLines.deps.json
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\bin\Debug\net6.0\Task54MaxToMinLines.runtimeconfig.json
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\bin\Debug\net6.0\Task54MaxToMinLines.dll
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\bin\Debug\net6.0\Task54MaxToMinLines.pdb
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.AssemblyInfo.cs
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.dll
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\refint\Task54MaxToMinLines.dll
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.pdb
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\Task54MaxToMinLines.genruntimeconfig.cache
+C:\Users\user\Desktop\Practice0308\Task54MaxToMinLines\obj\Debug\net6.0\ref\Task54MaxToMinLines.dll
